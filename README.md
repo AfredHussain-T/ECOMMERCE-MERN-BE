@@ -4,7 +4,7 @@
 
 Welcome to the documentation for the Ecommerce Project API! This API provides a set of endpoints and functionalities to interact with our eCommerce platform programmatically. With this API, you can build applications, integrations, and automate various tasks related to our online store.
 
-**Base URL**: `http://localhost:5454`
+**Base URL**: `http://localhost:3004`
 
 ## Authentication
 
@@ -98,15 +98,12 @@ All protected endpoints require the `Authorization` header with a valid token.
 ## Servers
 
 - Server 1:
-  - URL: `http://localhost:5454`
+  - URL: `http://localhost:3004`
   - Description: Generated server URL
 
 ## Contact
 
-For any queries or issues, please contact **Ashok Zarmariya** at `ashokzarmariya@gmail.com`.
+For any queries or issues, please contact `afredhussain69@gmail.com`.
 
-## License
-
-This API is licensed under **Ashok Zarmariya**.
 
 
